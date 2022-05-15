@@ -15,4 +15,4 @@ To train the model use
 ```python
 wandb.agent(sweep_id, function=train)
 ```
-Question 8 is iin song.ipynb
+Question 8 is in song.ipynb
